@@ -59,5 +59,7 @@ Transformers (Hugging Face)
 PyTorch / TensorFlow
 NLP Libraries (SpaCy, NLTK)
 Scikit-learn
-
 Pandas, NumPy, Matplotlib
+
+****NOTE**** 
+The code shared in this repository is sample model, the original model is not provided.
